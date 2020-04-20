@@ -13,6 +13,7 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 ## Steps to execute this calculator:
 - Download the entire code 
 - Open up the index.html.
+- [View Live Site](https://anthonys1760.github.io/Relaxer-App/)
 
 
 ## Technologies used: 
