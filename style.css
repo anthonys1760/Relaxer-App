@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #224941 url('/img/water.jpg') no-repeat center center/cover;
+    background: #224941 url('./img/water.jpg') no-repeat center center/cover;
     display: flex;
     min-height: 100vh;
     overflow: hidden;
